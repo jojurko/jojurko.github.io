@@ -1,0 +1,70 @@
+body{
+    background-image: url('../assets/topography.png');
+    font-family: 'consolas' 'Courier New', Courier, monospace;
+}
+
+#horna-lista
+{
+    background-color: #333333;
+    min-height: 30px;
+    padding: 5px 10%;   
+}
+
+.logo, a {
+    font-size: 12px;
+    color:#ff0099;
+    display: inline-block;
+  }
+  
+a{
+    padding-top: 12px;
+    padding-right: 20px;
+    float:right;
+}
+  
+.logo {
+      float:left;
+}
+  
+a:hover{
+      color:#ffffff;
+ }
+
+#meno {
+    padding-top: 30px;
+    font-size:26px;
+    font-weight: bold;
+}
+
+#pozicia {
+    color:#ff0099;
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+#obsah{
+    padding: 0 10%;
+    font-size:14px;
+}
+
+#oddelovac {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: x-small;
+}
+
+#spodny-nadpis{
+    text-align:center;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 30px 0;
+}
+
+.dt {
+     font-weight: bold;
+}
+
+.dd {
+    font-size: smaller;
+    padding: 10px 0;
+}
