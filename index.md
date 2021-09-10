@@ -10,11 +10,11 @@
     </head>
     <body>
         <div id="horna-lista">
-            <img class="logo" src="assets/kokakola.gif" width="100px"  />
+            <!--img class="logo" src="assets/kokakola.gif" width="100px"  /-->
             <a href="https://www.linkedin.com/in/jozef-jurkovi%C4%8D-84245563/">LINKEDIN</a>
             <a href="https://github.com/jojurko" target="_blank">GITHUB</a>
-            <a href="http://wikipedia.org" target="_blank">WIKI</a>
-            <a href="index.html" target="_blank">HOME</a> 
+	     <a href ="https://www.codewars.com/users/jojurko/" target="_blank">CODEWARS</a>		
+             <a href="https://www.codewars.com/users/jojurko/" target="_self">HOME</a> 
         </div>
         <div id="obsah"> 
             <div id="meno">Jozef Jurkovič </div>
@@ -28,11 +28,12 @@
             </div>
         
         <div id="oddelovac">- - -</div>
-        <div id="spodny-nadpis">Technology WIKI</div>
+        
+	<!--div id="spodny-nadpis">Technology WIKI</div>
         <div id="vysvetlenie">
             <p class="dt">ASCII</p>
             <p class="dd">It stands for American Standard Code for Information Interchange. Computers can only understand numbers, so it is the numerical representation of a character such as 'a' or '@' or an action of some sort.</p>
-        </div>
+        </div-->
 
     </div>
     </body>
